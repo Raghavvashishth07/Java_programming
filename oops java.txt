@@ -308,7 +308,3 @@ class Child extends Parent {
 2. Create an inheritance hierarchy with at least 2 levels and demonstrate method overriding.
 3. Implement an abstract class and create subclasses for specific implementations.
 4. Write a Java program demonstrating method overloading and overriding.
-
----
-
-Let me know if you need further explanations or specific examples! 😊
